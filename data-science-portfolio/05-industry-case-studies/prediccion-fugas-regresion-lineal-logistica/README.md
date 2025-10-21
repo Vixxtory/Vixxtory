@@ -3,14 +3,12 @@
 Proyecto de análisis y modelado de datos industriales enfocado en la **predicción de fugas** a partir de variables ambientales y operativas.  
 Se implementaron **modelos de regresión lineal y logística** utilizando Python y bibliotecas del ecosistema científico.
 
----
 
 ## Objetivo del Proyecto
 
 Analizar el comportamiento de la variable **Tprom − Tamb** (temperatura promedio menos ambiente)  
 y predecir la **ocurrencia de fugas (Fuga = 1)** a partir de variables medidas en planta.
 
----
 
 ## Dataset
 
@@ -25,7 +23,6 @@ El dataset contiene 2927 registros con las siguientes variables:
 | 4-E | Variable técnica de energía o eficiencia | - |
 | Presión Dif Enclosure [mmH2O] | Variable utilizada para definir Fuga | mmH₂O |
 
----
 
 ## Flujo del Proyecto
 
@@ -43,9 +40,9 @@ El dataset contiene 2927 registros con las siguientes variables:
   - `MAE ≈ 2.48`
   - `R² ≈ 0.49`
 
-*Conclusión:* el modelo lineal captura parcialmente la variabilidad de la temperatura diferencial, pero podría mejorarse con modelos no lineales.
+***Conclusión:*** el modelo lineal captura parcialmente la variabilidad de la temperatura diferencial, pero podría mejorarse con modelos no lineales.
 
-###3. Modelos de Regresión Logística
+### 3. Modelos de Regresión Logística
 - Variable objetivo: **Fuga = 1 si Presión Dif Enclosure > mediana**
 - Variables predictoras seleccionadas:
   - Temperatura Inferior [°F]
@@ -65,8 +62,6 @@ Evaluación de métricas:
 
 *Conclusión:* el modelo logra buena capacidad para identificar correctamente los casos con fuga, aunque se observó un leve desbalanceo en la clase objetivo.
 
----
-
 ## Librerías Utilizadas
 
 - **pandas** – Manipulación de datos  
@@ -74,7 +69,6 @@ Evaluación de métricas:
 - **matplotlib / seaborn / plotly** – Visualización de datos  
 - **scikit-learn** – Modelado predictivo y métricas  
 
----
 
 ## Modelos Evaluados
 
@@ -83,7 +77,6 @@ Evaluación de métricas:
 | Regresión Lineal | Predicción de Tprom-Tamb | Temp, Humedad, Potencia, 4-E | R² = 0.49 |
 | Regresión Logística | Predicción de Fuga (binaria) | Temp, Humedad, Potencia, 4-E | F1 = 0.75 |
 
----
 
 ## Conclusiones Generales
 
@@ -92,7 +85,6 @@ Evaluación de métricas:
 - La normalización **StandardScaler** fue la más adecuada por mantener la media y desviación estándar estables frente a outliers moderados.  
 - El modelo de **regresión logística** logró una predicción razonable de la variable *Fuga*, mostrando la relevancia de las variables térmicas y de potencia en el comportamiento del sistema.
 
----
 
 ## Autora
 
@@ -103,4 +95,3 @@ Apasionada por el análisis de datos, la programación y la ciencia aplicada.
 📫 [LinkedIn](https://www.linkedin.com/in/victtoria77/)  
 📁 [GitHub](https://github.com/Vixxtory)
 
----
