@@ -33,8 +33,8 @@ My passion is turning raw data into insights and building solutions that support
   Basic classification model with scikit-learn.  
 
 ### 🔹 Industry Case Studies
-- **[Project 5: Energy Consumption Forecasting](#)**  
-  Applying regression models to predict electricity usage.  
+- **[Project 5: Gas Turbine Leak Prediction](./data-science-portfolio/05-industry-case-studies/prediccion-fugas-regresion-lineal-logistica)**  
+  Application of linear and logistic regression models for leak prediction. 
 
 ---
 
@@ -87,8 +87,8 @@ Mi pasión es transformar datos en información útil y construir soluciones que
   Modelo básico de clasificación con scikit-learn.  
 
 ### 🔹 Casos Aplicados a la Industria
-- **[Proyecto 5: Predicción de Consumo Energético](#)**  
-  Aplicación de modelos de regresión para estimar uso eléctrico.  
+- **[Proyecto 5: Predicción de Fugas en Turbina de Gas](./data-science-portfolio/05-industry-case-studies/prediccion-fugas-regresion-lineal-logistica)**  
+  Aplicación de modelos de regresión lineal y logistica para prediccion de fugas.  
 
 ---
 
