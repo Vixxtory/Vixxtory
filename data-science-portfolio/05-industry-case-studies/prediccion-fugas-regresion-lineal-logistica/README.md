@@ -1,18 +1,18 @@
-#Predicción de Fugas mediante Modelos de Regresión
+# Predicción de Fugas mediante Modelos de Regresión
 
 Proyecto de análisis y modelado de datos industriales enfocado en la **predicción de fugas** a partir de variables ambientales y operativas.  
 Se implementaron **modelos de regresión lineal y logística** utilizando Python y bibliotecas del ecosistema científico.
 
 ---
 
-##Objetivo del Proyecto
+## Objetivo del Proyecto
 
 Analizar el comportamiento de la variable **Tprom − Tamb** (temperatura promedio menos ambiente)  
 y predecir la **ocurrencia de fugas (Fuga = 1)** a partir de variables medidas en planta.
 
 ---
 
-##Dataset
+## Dataset
 
 El dataset contiene 2927 registros con las siguientes variables:
 
@@ -27,14 +27,14 @@ El dataset contiene 2927 registros con las siguientes variables:
 
 ---
 
-##Flujo del Proyecto
+## Flujo del Proyecto
 
-###1. Análisis Exploratorio de Datos (EDA)
+### 1. Análisis Exploratorio de Datos (EDA)
 - Identificación de correlaciones entre variables.
 - Gráficos de dispersión, boxplots y análisis temporal.
 - Detección de posibles outliers y normalización adecuada.
 
-###2. Modelos de Regresión Lineal
+### 2. Modelos de Regresión Lineal
 - Variable objetivo: **Tprom − Tamb**  
 - Se probaron 5 modelos variando las variables predictoras.  
 - Evaluación mediante métricas: **MSE**, **MAE**, **R²**  
@@ -67,7 +67,7 @@ Evaluación de métricas:
 
 ---
 
-##Librerías Utilizadas
+## Librerías Utilizadas
 
 - **pandas** – Manipulación de datos  
 - **numpy** – Cálculos numéricos  
@@ -76,7 +76,7 @@ Evaluación de métricas:
 
 ---
 
-##Modelos Evaluados
+## Modelos Evaluados
 
 | Tipo | Descripción | Variables principales | Mejor métrica |
 |------|--------------|----------------------|----------------|
@@ -85,7 +85,7 @@ Evaluación de métricas:
 
 ---
 
-##Conclusiones Generales
+## Conclusiones Generales
 
 - Los modelos lineales ofrecen una buena base explicativa, pero podrían mejorarse con técnicas no lineales (árboles o redes neuronales).  
 - La variable **Presión Dif Filtro** tuvo gran peso negativo en la predicción de la temperatura diferencial.  
@@ -94,7 +94,7 @@ Evaluación de métricas:
 
 ---
 
-##Autora
+## Autora
 
 **Victoria Coronel**  
 Estudiante de Ciencia de Datos e Inteligencia Artificial (UPATECO)  
