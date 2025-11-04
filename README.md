@@ -23,8 +23,8 @@ Mi pasión es transformar datos en información útil y construir soluciones que
 ### 🔹 Casos Aplicados a la Industria
 - **[Proyecto: Predicción de Fugas en Turbina de Gas](./data-science-portfolio/05-industry-case-studies/prediccion-fugas-regresion-lineal-logistica)**  
   Aplicación de modelos de regresión lineal y logistica para prediccion de fugas.
-- **[Proyecto: Análisis de Rutas Urbanas con OpenStreetMap](./data-science-portfolio/06-geospatial-analysis/analisis-rutas-osmnx-networkx)** 
-Análisis de redes urbanas y optimización de rutas utilizando OSMnx y NetworkX. 
+- **[Proyecto: Análisis de Rutas Urbanas con OpenStreetMap](./data-science-portfolio/06-geospatial-analysis/analisis-rutas-osmnx-networkx)**
+  Análisis de redes urbanas y optimización de rutas utilizando OSMnx y NetworkX. 
 
 ---
 
@@ -65,7 +65,7 @@ My passion is turning raw data into insights and building solutions that support
 ### 🔹 Industry Case Studies
 - **[Project: Gas Turbine Leak Prediction](./data-science-portfolio/05-industry-case-studies/prediccion-fugas-regresion-lineal-logistica)**  
   Application of linear and logistic regression models for leak prediction.
-- **[Project: Urban Route Analysis with OpenStreetMap](./data-science-portfolio/06-geospatial-analysis/analisis-rutas-osmnx-networkx)**  
+- **[Project: Urban Route Analysis with OpenStreetMap](./data-science-portfolio/06-geospatial-analysis/analisis-rutas-osmnx-networkx)**
   Analysis of urban networks and route optimization using OSMnx and NetworkX.
 
 ---
