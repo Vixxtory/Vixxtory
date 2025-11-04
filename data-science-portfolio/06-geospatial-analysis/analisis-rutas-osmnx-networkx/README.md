@@ -26,7 +26,7 @@ Incluye representaciones gráficas de cada ruta calculada.
 ## Notebook
 
 Podés ver la implementación completa en el siguiente enlace:
-[Google Colab - Análisis de Rutas Urbanas](https://colab.research.google.com/drive/1GdBhlHvOkb6lfngZbu4e_sTUavNC7Hxm)
+[Google Colab - Análisis de Rutas Urbanas](https://colab.research.google.com/drive/1Lj_rhh9xVRDACefTHQS01Ln2lQekWLU5#scrollTo=V5ZbOeROxT30)
 
 --------------------------------------------------------------------------------
 
@@ -54,4 +54,4 @@ Includes graphical representation of each computed route.
 
 ## Notebook
 You can view the full implementation here:  
-[Google Colab - Urban Route Analysis](https://colab.research.google.com/drive/1GdBhlHvOkb6lfngZbu4e_sTUavNC7Hxm)
+[Google Colab - Urban Route Analysis](https://colab.research.google.com/drive/1Lj_rhh9xVRDACefTHQS01Ln2lQekWLU5#scrollTo=V5ZbOeROxT30)
