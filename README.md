@@ -1,6 +1,6 @@
 # Hola, soy Victoria Coronel 👋  
 
-🎯 **Estudiante de Ciencia de Datos | Ex estudiante de Física | Aspirante a Analista / Científica de Datos**  
+🎯 **Estudiante de Ciencia de Datos | Diplomada en Física | Aspirante a Analista / Científica de Datos**  
 
 Actualmente curso la **Tecnicatura en Ciencia de Datos e Inteligencia Artificial Aplicada** en UPATECO (Argentina), con formación previa en **Física** y **Desarrollo Backend**.  
 Mi pasión es transformar datos en información útil y construir soluciones que apoyen la toma de decisiones.  
@@ -42,7 +42,7 @@ Mi pasión es transformar datos en información útil y construir soluciones que
 
 # Hi, I'm Victoria Coronel 👋  
 
-🎯 **Data Science student | Former Physics student | Aspiring Data Analyst / Data Scientist**  
+🎯 **Data Science student | Physics | Aspiring Data Analyst / Data Scientist**  
 
 I’m currently pursuing an Associate Degree in **Applied Data Science and Artificial Intelligence** at UPATECO (Argentina), with a background in **Physics** and **Backend Development**.  
 My passion is turning raw data into insights and building solutions that support decision-making.  
