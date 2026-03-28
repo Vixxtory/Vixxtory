@@ -142,5 +142,3 @@ This type of analysis has applications in:
 
 You can view the full implementation at the following link:  
 [Google Colab - Urban Route Analysis](https://colab.research.google.com/drive/1Lj_rhh9xVRDACefTHQS01Ln2lQekWLU5#scrollTo=V5ZbOeROxT30)
-You can view the full implementation here:  
-[Google Colab - Urban Route Analysis](https://colab.research.google.com/drive/1Lj_rhh9xVRDACefTHQS01Ln2lQekWLU5#scrollTo=V5ZbOeROxT30)
