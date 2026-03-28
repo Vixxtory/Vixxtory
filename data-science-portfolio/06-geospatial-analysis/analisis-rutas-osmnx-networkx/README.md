@@ -17,7 +17,7 @@ Se aplican técnicas de análisis de grafos para modelar la ciudad como una red 
   - Longitud del camino
 - Visualizar las rutas obtenidas.
 
-## 🗺️ Datos
+## Datos
 
 Los datos se obtienen de **OpenStreetMap** utilizando la librería OSMnx.
 Se trabaja con la red vial de tipo `drive`, que representa las calles transitables por vehículos.
@@ -31,7 +31,7 @@ Se trabaja con la red vial de tipo `drive`, que representa las calles transitabl
 - Folium  
 - Matplotlib
 
-## ⚙️ Metodología
+## Metodología
 
 1. Descarga del grafo urbano de Salta.
 2. Conversión a GeoDataFrames para análisis.
