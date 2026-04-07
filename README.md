@@ -1,82 +1,103 @@
-# Hola, soy Victoria Coronel 👋  
+# 👋 Hola, soy Victoria Coronel
 
-🎯 **Estudiante de Ciencia de Datos | Diplomada en Física | Aspirante a Analista / Científica de Datos**  
+🎯 **Estudiante de Ciencia de Datos | Base en Física | Enfoque en Análisis Geoespacial y Minería**
 
-Actualmente curso la **Tecnicatura en Ciencia de Datos e Inteligencia Artificial Aplicada** en UPATECO (Argentina), con formación previa en **Física** y **Desarrollo Backend**.  
-Mi pasión es transformar datos en información útil y construir soluciones que apoyen la toma de decisiones.  
+Soy estudiante de Ciencia de Datos e Inteligencia Artificial Aplicada en UPATECO (Argentina), con formación previa en Física y Desarrollo Backend.
 
-💡 Me estoy enfocando en:  
-- Python (Pandas, NumPy, scikit-learn)  
-- SQL y gestión de bases de datos  
-- Visualización de datos (Power BI, Matplotlib, Seaborn)  
-- Fundamentos de Machine Learning  
-- Aplicaciones a industrias reales (energía, agro, minería, entre otras).  
+Me apasiona transformar datos en información útil y desarrollar soluciones que apoyen la toma de decisiones, especialmente en contextos reales como minería, ambiente y análisis territorial.
+
+---
+
+## 💡 Habilidades y Herramientas
+
+- 🐍 Python (Pandas, NumPy, scikit-learn)  
+- 🗄️ SQL y bases de datos  
+- 📊 Visualización de datos (Power BI, Matplotlib, Seaborn)  
+- 📑 Microsoft Office (Excel, Word)  
+- 🤖 Machine Learning (nivel inicial)  
+- 🗺️ Análisis geoespacial (QGIS - en formación)
 
 ---
 
 ## 🚀 Portafolio de Proyectos
 
-### 🔹 Dashboards y Visualizaciones
-- **[Proyecto: Turismo en Salta – Dashboard Interactivo](#)**  
-  Dashboard en Power BI analizando tendencias de turismo.  
+### 🔹 Dashboards & Visualización
 
-### 🔹 Casos Aplicados a la Industria
-- **[Proyecto: Predicción de Fugas en Turbina de Gas](./data-science-portfolio/05-industry-case-studies/prediccion-fugas-regresion-lineal-logistica)**  
-  Aplicación de modelos de regresión lineal y logistica para prediccion de fugas.
-- **[Proyecto: Análisis de Rutas Urbanas con OpenStreetMap](./data-science-portfolio/06-geospatial-analysis/analisis-rutas-osmnx-networkx)**
-  Análisis de redes urbanas y optimización de rutas utilizando OSMnx y NetworkX. 
+- **Turismo en Salta – Dashboard Interactivo**  
+  Análisis de tendencias turísticas con Power BI.
+
+---
+
+### 🔹 Casos aplicados a la industria
+
+- **Predicción de Fugas en Turbina de Gas**  
+  Modelos de regresión lineal y logística para detección de fugas.
+
+- **[Análisis de Rutas Urbanas con OpenStreetMap](./data-science-portfolio/06-geospatial-analysis/analisis-rutas-osmnx-networkx)**  
+  Modelado de redes urbanas y optimización de rutas utilizando OSMnx y NetworkX.
 
 ---
 
 ## 📌 Sobre mí
-- 🌍 Vivo en Salta, Argentina  
-- 📖 En formación constante: actualmente reforzando mis habilidades en **Python, SQL, ML y BI**  
-- 🤝 Abierta a colaborar en **proyectos de datos abiertos**  
-- 📫 Contacto: [LinkedIn](https://linkedin.com/in/victtoria77) | [GitHub](https://github.com/Vixxtory)  
+
+- 🌍 Salta, Argentina  
+- 📖 Formación continua en datos, GIS y análisis aplicado  
+- 🤝 Interés en proyectos de datos abiertos y aplicaciones reales  
+- 📫 [LinkedIn](https://linkedin.com/in/victtoria77) | [GitHub](https://github.com/Vixxtory)
 
 ---
 
-✨ *Este portafolio está en construcción. ¡Próximamente más proyectos!*  
+✨ *Este portfolio está en construcción. Próximamente más proyectos enfocados en análisis geoespacial y minería.*
 
------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------
 
-# Hi, I'm Victoria Coronel 👋  
+# 👋 Hi, I'm Victoria Coronel
 
-🎯 **Data Science student | Physics | Aspiring Data Analyst / Data Scientist**  
+🎯 **Data Science Student | Physics Background | Focus on Geospatial & Mining Data**
 
-I’m currently pursuing an Associate Degree in **Applied Data Science and Artificial Intelligence** at UPATECO (Argentina), with a background in **Physics** and **Backend Development**.  
-My passion is turning raw data into insights and building solutions that support decision-making.  
+I am currently pursuing an Associate Degree in Applied Data Science and AI at UPATECO (Argentina), with a background in Physics and Backend Development.
 
-💡 I’m focusing on:  
-- Python (Pandas, NumPy, scikit-learn)  
-- SQL & Database management  
-- Data Visualization (Power BI, Matplotlib, Seaborn)  
-- Machine Learning basics  
-- Problem-solving applied to real-world industries (energy, agro, mining, and more).  
+I am passionate about turning data into insights and building solutions for real-world applications, especially in mining, environmental, and geospatial contexts.
+
+---
+
+## 💡 Skills & Tools
+
+- 🐍 Python (Pandas, NumPy, scikit-learn)  
+- 🗄️ SQL & Databases  
+- 📊 Data Visualization (Power BI, Matplotlib, Seaborn)
+- 📑 Microsoft Office (Excel, Word)  
+- 🤖 Machine Learning (basic level)  
+- 🗺️ Geospatial Analysis (QGIS - learning)
 
 ---
 
 ## 🚀 Projects Portfolio
 
-### 🔹 Dashboards & Visualizations
-- **[Project: Tourism in Salta – Interactive Dashboard](#)**  
-  Power BI dashboard analyzing tourism trends.  
+### 🔹 Dashboards & Visualization
+
+- **Tourism in Salta – Interactive Dashboard**  
+  Power BI dashboard analyzing tourism trends.
+
+---
 
 ### 🔹 Industry Case Studies
-- **[Project: Gas Turbine Leak Prediction](./data-science-portfolio/05-industry-case-studies/prediccion-fugas-regresion-lineal-logistica)**  
-  Application of linear and logistic regression models for leak prediction.
-- **[Project: Urban Route Analysis with OpenStreetMap](./data-science-portfolio/06-geospatial-analysis/analisis-rutas-osmnx-networkx)**
-  Analysis of urban networks and route optimization using OSMnx and NetworkX.
+
+- **Gas Turbine Leak Prediction**  
+  Linear and logistic regression models for leak prediction.
+
+- **[Urban Route Analysis with OpenStreetMap](./data-science-portfolio/06-geospatial-analysis/analisis-rutas-osmnx-networkx)**  
+  Urban network modeling and route optimization using OSMnx and NetworkX.
 
 ---
 
-## 📌 About me
+## 📌 About Me
+
 - 🌍 Based in Salta, Argentina  
-- 📖 Always learning: currently improving my skills in **Python, SQL, ML, and BI**  
-- 🤝 Open to collaboration on **open data projects**  
-- 📫 Reach me at: [LinkedIn](https://linkedin.com/in/victtoria77) | [GitHub](https://github.com/Vixxtory)  
+- 📖 Continuously learning data science, GIS, and applied analytics  
+- 🤝 Open to collaboration on real-world data projects  
+- 📫 [LinkedIn](https://linkedin.com/in/victtoria77) | [GitHub](https://github.com/Vixxtory)
 
 ---
 
-✨ *This portfolio is a work in progress. More projects coming soon!*  
-
+✨ *This portfolio is a work in progress. More geospatial and mining-focused projects coming soon.*
