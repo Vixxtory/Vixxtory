@@ -1,14 +1,14 @@
 # 👋 Hola, soy Victoria Coronel
 
-🎯 **Estudiante avanzada de Ciencia de Datos | Estudios previos en Física | Enfoque en Análisis Geoespacial (QGIS)**
+**Estudiante avanzada de Ciencia de Datos | Estudios previos en Física | Enfoque en Análisis Geoespacial (QGIS)**
 
 Soy estudiante avanzada de Ciencia de Datos e Inteligencia Artificial Aplicada en UPATECO (Argentina), con formación previa en Licenciatura en Física y Desarrollo Backend.
 
-Me apasiona transformar datos en información útil y desarrollar soluciones que apoyen la toma de decisiones, especialmente en contextos reales como ambiente y análisis territorial e industrias.
+Me apasiona transformar datos en información útil y desarrollar soluciones que apoyen la toma de decisiones, especialmente en contextos reales como ambiente, análisis territorial e industrias.
 
 ---
 
-## 💡 Habilidades y Herramientas
+## Habilidades y Herramientas
 
 - 🐍 Python (Pandas, NumPy, scikit-learn, Matplotlib, Seaborn)  
 - 🗄️ SQL y bases de datos  
@@ -19,7 +19,7 @@ Me apasiona transformar datos en información útil y desarrollar soluciones que
 
 ---
 
-## 🚀 Portafolio de Proyectos
+## Portafolio de Proyectos
 
 ### 🔹 Dashboards & Visualización
 
