@@ -38,6 +38,10 @@ Me apasiona transformar datos en información útil y desarrollar soluciones que
 
 ---
 
+### 🔹 Datos + IA
+
+---
+
 ## 📌 Sobre mí
 
 - 🌍 Salta, Argentina  
